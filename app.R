@@ -23,8 +23,12 @@ ui <- navbarPage(
           "background-color: #ecf0f1; padding: 2rem; ",
           "border-radius: 10px;"
         ),
-        h3("Documentatie", style = "color: #2c3e50;"),
+        h3("Membri echipa", style = "color: #2c3e50;"),
         hr(),
+        p("Irimia David, Grupa 241"),
+        p("Lungu Vlad, Grupa 241"),
+        p("Lozinca Iustin, Grupa 343"),
+        p("Tudor Rares-Alexandru, Grupa 241")
       )
     )
   ),
